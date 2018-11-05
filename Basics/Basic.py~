@@ -40,7 +40,7 @@ X is positive to the front of the robot
 Y is positive to the left of the robot (from his perspective)
 Z is positive up
 
-To test each function, go to the main function at the end of this code and try running one of the functions, or uncomment one of the examples commented in the main
+To test each function, go to the main function at the end of this code and try running one of the functions, or uncomment one of the examples commented
 '''
 picture = None
 
