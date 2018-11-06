@@ -1,5 +1,5 @@
 # Baxter
-Baxter applications
+
 This git contains some applications for the Baxter robot, aswell as the basics you should know when you work with the robot.
 The basics cover arm movement, head movement, changing the screen image, camera control and the obtention of data like angles and positions.
 
