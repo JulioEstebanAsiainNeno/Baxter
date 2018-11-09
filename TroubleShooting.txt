@@ -1,0 +1,3 @@
+Q1.- Can't enable nor move robot, but can ping and use the cameras, rostopic list and rosnode list also work.
+A1.- Check your ip address and the ip you have in your baxter.sh, they should be the same
+A2.- Disable your firewall (sudo ufw disable) 
