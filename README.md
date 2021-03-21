@@ -1,4 +1,6 @@
-# Baxter
+# Baxter robot applications
+
+Baxter is a cooperative robot (cobot) created by Rethink Robotics. It works both as an industrial robot an educational robots. Baxter its a humanoid robot, with a torso, two arms and a head (screen) giving him humanoid looks. As a cooperative robot, Baxter aims to help people at their workplace rather than replace them, and as such, its industrial capabilities are not optimized, in contrast, its safety measures are top grade, it does not require to be in a special room afar from humans, nor being caged or any other safety measures that are usually taken with other industrial robots.
 
 This git contains some basic functions and applications for the Baxter robot, as well as the basics you should know when you work with the robot.
 The basics cover arm movement, head movement, changing the screen image, camera control and data collection, such as angles and positions.
