@@ -7,7 +7,7 @@ Each file has comments explaining in a brief way how the apllication works. They
 
 This git also contains my undergraduate's thesis project, a chess program that lets the Baxter robot play Chess against a human opponent.
 
-DISCLAIMER: The chess code is not clean nor optimized. This happened due to the time restrictions given by the thesis.
+DISCLAIMER: The chess code is not clean nor optimized. This happened due to the time restrictions given by the thesis. This will be fixed if I gain access to the robot in the future. Parts of the code, inclucing comments are in spanish, but they will be translated to english once the code's faults are fixed.
 
 The chess project had the following objectives:
 1) Integrating a chess engine with the baxter robot to make it able to play against human opponents.
