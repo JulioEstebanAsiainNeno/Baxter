@@ -14,4 +14,6 @@ The chess project had the following objectives:
 2) Use a cooperative robot (cobot) to bridge the differences between human and robots, while at the same time, getting read of the fear and misconceptions people have about AI and robotics.
 3) Show my knowledge and experience atained during my undergraduate years and obtain my diploma.
 
-The chess engine was developed by Jean-Francois GAZET. http://www.jeffprod.com
+The chess engine was developed by Jean-Francois GAZET and you can find it here https://github.com/Tazeg/JePyChess. His personal website is the following: https://en.jeffprod.com/
+
+The project was tested and implemented in Ubuntu 14.04, python 3 and ROS Indigo.
